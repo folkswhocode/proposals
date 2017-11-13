@@ -2,7 +2,7 @@
 
 Repository to create and discuss new proposals of any kind (activities, projects, talks, events...) for the organization.
 
-To send your proposal, please create a new **issue** telling us about your idea, so we can share the proposal and discuss :smile:
+To send your proposal, please [create a new issue](https://github.com/folkswhocode/proposals/issues/new) telling us about your idea, so we can share the proposal and discuss :smile:
 
 ----------------------------
 
